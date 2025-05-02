@@ -1,3 +1,5 @@
+DEPRECATED
+
 Building the "langtools" workspace.
 
 The "langtools" workspace can be built from the command line with Ant.
